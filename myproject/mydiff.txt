@@ -3,3 +3,5 @@ hello
 how are you?
 i am fine
 who are you
+take care
+take care yourself
