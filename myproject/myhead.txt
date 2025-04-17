@@ -1,1 +1,4 @@
 devops 18 feb
+aws
+azure 
+gcp
